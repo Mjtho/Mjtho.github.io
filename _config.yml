@@ -1,0 +1,7 @@
+# Site settings
+title: Morgan Thomas UX
+highlighter: rouge
+encoding: utf-8
+
+# Build settings
+markdown: kramdown
