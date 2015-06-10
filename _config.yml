@@ -8,5 +8,5 @@ markdown: kramdown
 
 # Sass settings
 sass:
-    sass_dir: _lib
+    sass_dir: _sass
     style: compressed
