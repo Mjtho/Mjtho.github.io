@@ -9,3 +9,4 @@ markdown: kramdown
 # Sass settings
 sass:
     sass_dir: _lib
+    style: compressed
