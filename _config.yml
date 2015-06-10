@@ -2,7 +2,14 @@
 title: Morgan Thomas UX
 highlighter: rouge
 encoding: utf-8
+url:                 http://Mjtho.github.io/
 
 # Build settings
 markdown: kramdown
 
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+  
+  
