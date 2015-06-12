@@ -641,7 +641,7 @@ footer {
 
 @-moz-document url-prefix() {
   .main-div-cursor {
-    cursor: crosshair,auto; } }
+    cursor: crosshair; } }
 .cursor-about-left {
   cursor: url(../assets/img/home/aboutLink.png), auto; }
 
