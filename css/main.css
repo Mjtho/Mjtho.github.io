@@ -639,6 +639,9 @@ footer {
 .main-div-cursor {
   cursor: none; }
 
+@-moz-document url-prefix() {
+  .main-div-cursor {
+    cursor: none,auto; } }
 .cursor-about-left {
   cursor: url(../assets/img/home/aboutLink.png), auto; }
 
