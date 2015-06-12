@@ -637,7 +637,7 @@ footer {
   position: absolute; }
 
 .main-div-cursor {
-  cursor: none, auto; }
+  cursor: none; }
 
 .cursor-about-left {
   cursor: url(../assets/img/home/aboutLink.png), auto; }
