@@ -637,25 +637,25 @@ footer {
   position: absolute; }
 
 .main-div-cursor {
-  cursor: none; }
+  cursor: none, auto; }
 
 .cursor-about-left {
-  cursor: url("../assets/img/home/aboutLink.png"), default; }
+  cursor: url(../assets/img/home/aboutLink.png), auto; }
 
 .cursor-about-right {
-  cursor: url("../assets/img/work/about-workpg.png"), default; }
+  cursor: url(../assets/img/work/about-workpg.png), auto; }
 
 .cursor-work-right {
-  cursor: url("../assets/img/home/workLink.png"), default; }
+  cursor: url(../assets/img/home/workLink.png), auto; }
 
 .cursor-work-left {
-  cursor: url("../assets/img/about/work-aboutpg.png"), default; }
+  cursor: url(../assets/img/about/work-aboutpg.png), auto; }
 
 .cursor-home-right {
-  cursor: url("../assets/img/about/home-aboutpg.png"), default; }
+  cursor: url(../assets/img/about/home-aboutpg.png), auto; }
 
 .cursor-home-left {
-  cursor: url("../assets/img/work/home-workpg.png"), default; }
+  cursor: url(../assets/img/work/home-workpg.png), auto; }
 
 .about-me {
   font-weight: 400;
