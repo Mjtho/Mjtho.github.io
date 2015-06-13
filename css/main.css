@@ -452,7 +452,7 @@ header {
   width: 100%;
   top: 0;
   height: 50px;
-  z-index: 998;
+  z-index: 99;
   position: fixed;
   clear: both;
   left: 0;
@@ -574,7 +574,7 @@ footer {
   position: fixed;
   left: 0;
   right: 0;
-  z-index: 9; }
+  z-index: 99; }
   footer .social-list {
     margin: 0;
     padding-bottom: 5px; }
@@ -750,7 +750,8 @@ footer {
     visibility: visible;
     height: 100%;
     width: 100%;
-    position: fixed; }
+    position: fixed;
+    z-index: 9; }
 
   .main-div, .nav-left, .nav-right {
     visibility: hidden; }
