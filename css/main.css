@@ -750,8 +750,15 @@ footer {
     position: fixed;
     z-index: 9; }
 
-  footer, .main-div, .nav-left, .nav-right {
+  .main-div, .nav-left, .nav-right {
     display: none; }
+
+  .primary-nav {
+    /* by default it's hidden - on top of the viewport */
+    visibility: hidden; }
+
+  .primary-nav.is-visible {
+    visibility: visible; }
 
   .primary-nav.is-visible .primary-nav-links {
     font-size: 36px;
