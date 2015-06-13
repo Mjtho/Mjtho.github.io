@@ -739,13 +739,21 @@ footer {
   .main-div.main-div-cursor {
     visibility: hidden; }
 
-  .nav-left, .nav-right {
-    visibility: hidden; }
+  .mobile-greeting {
+    visibility: visible;
+    font-weight: 700;
+    font-size: 45px;
+    padding: 10% 15px 10px 15px;
+    text-align: center; }
 
-  .main-div {
-    left: 5%;
-    right: 5%;
-    width: 90%; }
+  .mobile-div {
+    visibility: visible;
+    height: 100%;
+    width: 100%;
+    position: fixed; }
+
+  .main-div, .nav-left, .nav-right {
+    visibility: hidden; }
 
   .primary-nav.is-visible .primary-nav-links {
     font-size: 36px;
