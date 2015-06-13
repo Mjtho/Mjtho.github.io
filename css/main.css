@@ -739,19 +739,6 @@ footer {
   .main-div.main-div-cursor {
     visibility: hidden; }
 
-  .mobile-greeting {
-    visibility: visible;
-    font-weight: 700;
-    font-size: 45px;
-    padding: 10% 15px 10px 15px;
-    text-align: center; }
-
-  .mobile-div {
-    visibility: visible;
-    height: 100%;
-    width: 100%;
-    position: fixed; }
-
   .nav-left, .nav-right {
     visibility: hidden; }
 
