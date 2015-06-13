@@ -734,10 +734,7 @@ footer {
 
 @media screen and (max-width: 660px) {
   .follow {
-    visibility: hidden; }
-
-  .main-div.main-div-cursor {
-    visibility: hidden; }
+    display: none; }
 
   .mobile-greeting {
     visibility: visible;
@@ -753,8 +750,8 @@ footer {
     position: fixed;
     z-index: 9; }
 
-  footer .main-div, .nav-left, .nav-right {
-    visibility: hidden; }
+  footer, .main-div, .nav-left, .nav-right {
+    display: none; }
 
   .primary-nav.is-visible .primary-nav-links {
     font-size: 36px;
