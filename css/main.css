@@ -732,7 +732,7 @@ footer {
 .work {
   text-align: center; }
 
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 800px) {
   .follow {
     display: none; }
 
