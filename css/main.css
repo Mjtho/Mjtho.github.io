@@ -753,16 +753,9 @@ footer {
   .main-div.main-div-cursor, .nav-left, .nav-right {
     display: none; }
 
-  .primary-nav {
-    /* by default it's hidden - on top of the viewport */
-    visibility: hidden; }
-
-  .primary-nav.is-visible {
-    visibility: visible; }
-
   .primary-nav.is-visible .primary-nav-links {
     font-size: 36px;
-    padding-top: 50%; }
+    padding-top: 20%; }
 
   .primary-nav.is-visible .social-div {
     padding-top: 5%; }
