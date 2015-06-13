@@ -574,7 +574,7 @@ footer {
   position: fixed;
   left: 0;
   right: 0;
-  z-index: 99; }
+  z-index: 98; }
   footer .social-list {
     margin: 0;
     padding-bottom: 5px; }
@@ -750,7 +750,7 @@ footer {
     position: fixed;
     z-index: 9; }
 
-  .main-div, .nav-left, .nav-right {
+  .main-div.main-div-cursor, .nav-left, .nav-right {
     display: none; }
 
   .primary-nav {
@@ -765,7 +765,7 @@ footer {
     padding-top: 50%; }
 
   .primary-nav.is-visible .social-div {
-    padding-top: 20%; }
+    padding-top: 5%; }
 
   .follow {
     width: 95%;
