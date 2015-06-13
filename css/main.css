@@ -732,9 +732,7 @@ footer {
 .work {
   text-align: center; }
 
-@-ms-viewport {
-  width: device-width; }
-@media screen and (max-device-width: 660px) {
+@media screen and (max-width: 660px) {
   .follow {
     visibility: hidden; }
 
